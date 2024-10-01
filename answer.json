@@ -1,0 +1,362 @@
+[
+  {
+    "id": 1,
+    "name": "Monkey",
+    "tier": 1,
+    "range": 1,
+    "category": "animal",
+    "image_url": "https://sakshamnftdata.s3.amazonaws.com/dreamimages/Designer+(19).jpeg",
+    "uri": "https://devnet.irys.xyz/Cpw9MCX23P2rDWAfGJXgKAHpvg3a1pz6GNfRKo8bWHKz"
+  },
+  {
+    "id": 2,
+    "name": "Deer",
+    "tier": 1,
+    "range": 2,
+    "category": "animal",
+    "image_url": "https://sakshamnftdata.s3.amazonaws.com/dreamimages/Designer+(17).jpeg",
+    "uri": "https://devnet.irys.xyz/8voZUqAi2h3oVEY7dG16aaMLhDo4ywaj51zefJvvF8oP"
+  },
+  {
+    "id": 3,
+    "name": "Panda",
+    "tier": 1,
+    "range": 3,
+    "category": "animal",
+    "image_url": "https://sakshamnftdata.s3.amazonaws.com/dreamimages/Designer+(21).jpeg",
+    "uri": "https://devnet.irys.xyz/2pbfZ4PAe8ZotzhS97VVgpHJmGgNUnk7kdA2w3fmnv3b"
+  },
+  {
+    "id": 4,
+    "name": "Giraffe",
+    "tier": 1,
+    "range": 4,
+    "category": "animal",
+    "image_url": "https://sakshamnftdata.s3.amazonaws.com/dreamimages/Designer+(22).jpeg",
+    "uri": "https://devnet.irys.xyz/BXhGi5eNGXeCUM6bCkBTvGa5HVrjaXqLR6xdP3GAkiVQ"
+  },
+  {
+    "id": 5,
+    "name": "Hippo",
+    "tier": 1,
+    "range": 5,
+    "category": "animal",
+    "image_url": "https://sakshamnftdata.s3.amazonaws.com/dreamimages/Designer+(23).jpeg",
+    "uri": "https://devnet.irys.xyz/jVsY114rtxSpXmRz8qXNN3XXK9tSBdPNMKkVW99pTGa"
+  },
+  {
+    "id": 6,
+    "name": "Lion",
+    "tier": 1,
+    "range": 10,
+    "category": "animal",
+    "image_url": "https://sakshamnftdata.s3.amazonaws.com/dreamimages/Designer+(26).jpeg",
+    "uri": "https://devnet.irys.xyz/2azGkvs4GTSjiSMNrxm4N4qS1RGorfbcUh6dRGUAEL37"
+  },
+  {
+    "id": 7,
+    "name": "Fox",
+    "tier": 1,
+    "range": 6,
+    "category": "animal",
+    "image_url": "https://sakshamnftdata.s3.amazonaws.com/dreamimages/Designer+(27).jpeg",
+    "uri": "https://devnet.irys.xyz/SruX3jEww2owoyGg2xe4M5sSjuL42Y5y7yRXj747L8e"
+  },
+  {
+    "id": 8,
+    "name": "Wolf",
+    "tier": 1,
+    "range": 7,
+    "category": "animal",
+    "image_url": "https://sakshamnftdata.s3.amazonaws.com/dreamimages/Designer+(28).jpeg",
+    "uri": "https://devnet.irys.xyz/4GtMwxtNG3tJAPUStrCMUY9fXqeVcg2eDkEFqK9jHmrf"
+  },
+  {
+    "id": 9,
+    "name": "Snow leopard",
+    "tier": 1,
+    "range": 8,
+    "category": "animal",
+    "image_url": "https://sakshamnftdata.s3.amazonaws.com/dreamimages/Designer+(30).jpeg",
+    "uri": "https://devnet.irys.xyz/5vEXdyByv2LPxTaGRnNueTL7Vu26cFzYUWmmujsHe7ai"
+  },
+  {
+    "id": 10,
+    "name": "Tiger",
+    "tier": 1,
+    "range": 9,
+    "category": "animal",
+    "image_url": "https://sakshamnftdata.s3.amazonaws.com/dreamimages/Designer+(34).jpeg",
+    "uri": "https://devnet.irys.xyz/BtcfB87ahfgbgRxyRhobQNrS4p5YSsJMfoUQLgr5FbB3"
+  },
+  {
+    "id": 11,
+    "name": "Stompy Rex",
+    "tier": 2,
+    "range": 9,
+    "category": "dinosaur",
+    "image_url": "https://sakshamnftdata.s3.amazonaws.com/dreamimages/Designer+(38).jpeg",
+    "uri": "https://devnet.irys.xyz/6DkDFHMxYTv9bEESSkx77v3KC7FRR2TyHMf2FvFTR8JM"
+  },
+  {
+    "id": 12,
+    "name": "Roary the Raptor",
+    "tier": 2,
+    "range": 8,
+    "category": "dinosaur",
+    "image_url": "https://sakshamnftdata.s3.amazonaws.com/dreamimages/Designer+(39).jpeg",
+    "uri": "https://devnet.irys.xyz/6PoSk5tsBytYmRFfkXxZuNBEJZgGimYRyGaUzmyamzpk"
+  },
+  {
+    "id": 13,
+    "name": "Spike the Stego",
+    "tier": 2,
+    "range": 1,
+    "category": "dinosaur",
+    "image_url": "https://sakshamnftdata.s3.amazonaws.com/dreamimages/Designer+(40).jpeg",
+    "uri": "https://devnet.irys.xyz/U9jH8BDbVLUDxkZPRYkpZqAvHxyMHZFjDwbNxz8inNu"
+  },
+  {
+    "id": 14,
+    "name": "Chomper the Dino",
+    "tier": 1,
+    "range": 2,
+    "category": "dinosaur",
+    "image_url": "https://sakshamnftdata.s3.amazonaws.com/dreamimages/Designer+(42).jpeg",
+    "uri": "https://devnet.irys.xyz/JocK4uEfFQRxdAwShqewBRKfVaEEwvXG7XrCjXqNCJj"
+  },
+  {
+    "id": 15,
+    "name": "Thunderclaw",
+    "tier": 2,
+    "range": 4,
+    "category": "dinosaur",
+    "image_url": "https://sakshamnftdata.s3.amazonaws.com/dreamimages/Designer+(43).jpeg",
+    "uri": "https://devnet.irys.xyz/6sxkHbTMBymKhVkthnnayV2PB4CQFayZerB5F3YBrjmy"
+  },
+  {
+    "id": 16,
+    "name": "Blitzsaur",
+    "tier": 2,
+    "range": 3,
+    "category": "dinosaur",
+    "image_url": "https://sakshamnftdata.s3.amazonaws.com/dreamimages/Designer+(44).jpeg",
+    "uri": "https://devnet.irys.xyz/5ZWs1yAiSQqNX8c2XqQ1zce2gGLn8oZGNxNzQYcgpa9a"
+  },
+  {
+    "id": 17,
+    "name": "Frostbite Rex",
+    "tier": 2,
+    "range": 5,
+    "category": "dinosaur",
+    "image_url": "https://sakshamnftdata.s3.amazonaws.com/dreamimages/Designer+(45).jpeg",
+    "uri": "https://devnet.irys.xyz/22aAZ8ZUBRshabwXynsusr79z2bGEzUmJYyE1YJrtMyg"
+  },
+  {
+    "id": 18,
+    "name": "Shadowclaw",
+    "tier": 2,
+    "range": 6,
+    "category": "dinosaur",
+    "image_url": "https://sakshamnftdata.s3.amazonaws.com/dreamimages/Designer+(46).jpeg",
+    "uri": "https://devnet.irys.xyz/EfVTdJmuviAxqxm4A7ytKdq5iGPA2FUyQR9sG89exmXG"
+  },
+  {
+    "id": 19,
+    "name": "Rumblehorn",
+    "tier": 2,
+    "range": 7,
+    "category": "dinosaur",
+    "image_url": "https://sakshamnftdata.s3.amazonaws.com/dreamimages/Designer+(47).jpeg",
+    "uri": "https://devnet.irys.xyz/5jWWyrhnL44uRUcmgpZK8XwcQoWbizr3cHD4CehMLsrc"
+  },
+  {
+    "id": 20,
+    "name": "Spikestrike",
+    "tier": 2,
+    "range": 10,
+    "category": "dinosaur",
+    "image_url": "https://sakshamnftdata.s3.amazonaws.com/dreamimages/Designer+(48).jpeg",
+    "uri": "https://devnet.irys.xyz/CL9mB8BD7orS9cW5MCea7tzFZTjdHKK2rtKuNpMm9UeH"
+  },
+  {
+    "id": 21,
+    "name": "Blaster Xeno",
+    "tier": 3,
+    "range": 1,
+    "category": "alien",
+    "image_url": "https://sakshamnftdata.s3.amazonaws.com/dreamimages/Designer+(50).jpeg",
+    "uri": "https://devnet.irys.xyz/4DkpP8NRRdAhdwpyeEaxsRnBe8e4K8ApADeESoeiTH2A"
+  },
+  {
+    "id": 22,
+    "name": "Sneaker Nova",
+    "tier": 3,
+    "range": 10,
+    "category": "alien",
+    "image_url": "https://sakshamnftdata.s3.amazonaws.com/dreamimages/Designer+(51).jpeg",
+    "uri": "https://devnet.irys.xyz/7iq2fy2GaHtukciuh2yMegZ3b7eyqCDXc4Megjcbk629"
+  },
+  {
+    "id": 23,
+    "name": "Gucci Glint",
+    "tier": 3,
+    "range": 7,
+    "category": "alien",
+    "image_url": "https://sakshamnftdata.s3.amazonaws.com/dreamimages/Designer+(52).jpeg",
+    "uri": "https://devnet.irys.xyz/F3Hin3PCcjF4KvENMuyqRrF5VfJUrrVika7L4Z8PmeHs"
+  },
+  {
+    "id": 24,
+    "name": "Cap’n Cosmos",
+    "tier": 3,
+    "range": 2,
+    "category": "alien",
+    "image_url": "https://sakshamnftdata.s3.amazonaws.com/dreamimages/Designer+(53).jpeg",
+    "uri": "https://devnet.irys.xyz/DETnSDFgpd3YKSbnnx8LNgTrbtrZWU8rjuTX1knSH6PH"
+  },
+  {
+    "id": 25,
+    "name": "Chillin’Couture",
+    "tier": 3,
+    "range": 3,
+    "category": "animal",
+    "image_url": "https://sakshamnftdata.s3.amazonaws.com/dreamimages/Designer+(54).jpeg",
+    "uri": "https://devnet.irys.xyz/3ybRTJ7RyLFHvhSeTVoTPDkKsSqNWXoCuuCi3nuVtJF5"
+  },
+  {
+    "id": 26,
+    "name": "Witchy Wobble",
+    "tier": 2,
+    "range": 4,
+    "category": "dinosaur",
+    "image_url": "https://sakshamnftdata.s3.amazonaws.com/dreamimages/Designer+(55).jpeg",
+    "uri": "https://devnet.irys.xyz/HSFz7LZnj578xBap6hUPFfnTQrTTgoGPKgQtK2vkD9hT"
+  },
+  {
+    "id": 27,
+    "name": "Gogglehead",
+    "tier": 4,
+    "range": 5,
+    "category": "alien",
+    "image_url": "https://sakshamnftdata.s3.amazonaws.com/dreamimages/Designer+(56).jpeg",
+    "uri": "https://devnet.irys.xyz/2Rz8gUBWLZZA9ZCbU2YsG2cn8UqPr2jm15BJFbD5LyeJ"
+  },
+  {
+    "id": 28,
+    "name": "Level Up Luma",
+    "tier": 1,
+    "range": 9,
+    "category": "superhero",
+    "image_url": "https://sakshamnftdata.s3.amazonaws.com/dreamimages/Designer+(57).jpeg",
+    "uri": "https://devnet.irys.xyz/ECQpBRasRSXEsVYFGacuAMX7KHPXKr2FgteSNia48y6S"
+  },
+  {
+    "id": 29,
+    "name": "Nebula Notes",
+    "tier": 3,
+    "range": 8,
+    "category": "alien",
+    "image_url": "https://sakshamnftdata.s3.amazonaws.com/dreamimages/Designer+(60).jpeg",
+    "uri": "https://devnet.irys.xyz/GwUDVcgzBRbQWajgY7hRkEhVionjJdtcRQSA99RczU4x"
+  },
+  {
+    "id": 30,
+    "name": "Surfing Surge",
+    "tier": 3,
+    "range": 6,
+    "category": "alien",
+    "image_url": "https://sakshamnftdata.s3.amazonaws.com/dreamimages/Designer+(61).jpeg",
+    "uri": "https://devnet.irys.xyz/4qrnYfb7fHwRorVmViYGLWXvknQtf1RHbEKAzMGsusYv"
+  },
+  {
+    "id": 31,
+    "name": "Superman",
+    "tier": 4,
+    "range": 7,
+    "category": "superhero",
+    "image_url": "https://sakshamnftdata.s3.amazonaws.com/dreamimages/Designer+(68).jpeg",
+    "uri": "https://devnet.irys.xyz/Eqk2svVQ8znfCzHqKnyV4bJrbiUT4iyEJFpj9GZguHjt"
+  },
+  {
+    "id": 32,
+    "name": "Batman",
+    "tier": 4,
+    "range": 8,
+    "category": "superhero",
+    "image_url": "https://sakshamnftdata.s3.amazonaws.com/dreamimages/Designer+(71).jpeg",
+    "uri": "https://devnet.irys.xyz/9d9mmXSASVGCRKbUMCFpzyMz3DkcJ75ZMKNveWRn3usd"
+  },
+  {
+    "id": 33,
+    "name": "Worderwomen",
+    "tier": 4,
+    "range": 4,
+    "category": "superhero",
+    "image_url": "https://sakshamnftdata.s3.amazonaws.com/dreamimages/Designer+(72).jpeg",
+    "uri": "https://devnet.irys.xyz/4kSRsfmzi5qdHcPsJZhGMGoC42SLpQiKYtVP51U7AURP"
+  },
+  {
+    "id": 34,
+    "name": "Ironman",
+    "tier": 4,
+    "range": 10,
+    "category": "superhero",
+    "image_url": "https://sakshamnftdata.s3.amazonaws.com/dreamimages/Designer+(74).jpeg",
+    "uri": "https://devnet.irys.xyz/3MBKVpBXJ3NSM5Qds2XHcYq94BbxcLsiSVXDvyARxSUY"
+  },
+  {
+    "id": 35,
+    "name": "Thor",
+    "tier": 4,
+    "range": 5,
+    "category": "superhero",
+    "image_url": "https://sakshamnftdata.s3.amazonaws.com/dreamimages/Designer+(77).jpeg",
+    "uri": "https://devnet.irys.xyz/39xMHJgzv7EHqSHbmCVSqNKcDsgcPoUVTqpPm14qoa1a"
+  },
+  {
+    "id": 36,
+    "name": "Captain America",
+    "tier": 4,
+    "range": 6,
+    "category": "superhero",
+    "image_url": "https://sakshamnftdata.s3.amazonaws.com/dreamimages/Designer+(79).jpeg",
+    "uri": "https://devnet.irys.xyz/E2tP7KngTBBWrtwUQDyDg7oKAeVAJTrb3DxziVZygXjb"
+  },
+  {
+    "id": 37,
+    "name": "Spiderman",
+    "tier": 4,
+    "range": 9,
+    "category": "superhero",
+    "image_url": "https://sakshamnftdata.s3.amazonaws.com/dreamimages/Designer+(81).jpeg",
+    "uri": "https://devnet.irys.xyz/3nCDYYvxDW4YcksFt7nJsfgM1K9UnUMiidEnyjejCV87"
+  },
+  {
+    "id": 38,
+    "name": "Deadpool",
+    "tier": 1,
+    "range": 3,
+    "category": "superhero",
+    "image_url": "https://sakshamnftdata.s3.amazonaws.com/dreamimages/Designer+(83).jpeg",
+    "uri": "https://devnet.irys.xyz/83VYNX7VhGz7WewrfhSN9Ud9neUA7Mt4Ra4FYa2sqHfZ"
+  },
+  {
+    "id": 39,
+    "name": "Doctor Strange",
+    "tier": 3,
+    "range": 1,
+    "category": "superhero",
+    "image_url": "https://sakshamnftdata.s3.amazonaws.com/dreamimages/Designer+(88).jpeg",
+    "uri": "https://devnet.irys.xyz/6LGMBqAsnwbXmpes6CYK3njRuqVTVDPpcq7cwr4iLYwj"
+  },
+  {
+    "id": 40,
+    "name": "Hulk",
+    "tier": 2,
+    "range": 2,
+    "category": "superhero",
+    "image_url": "https://sakshamnftdata.s3.amazonaws.com/dreamimages/Designer+(90).jpeg",
+    "uri": "https://devnet.irys.xyz/7LXj8o1tuAjjoe2LaJsga1WJELUmtF8EgShzh5mUuqSo"
+  }
+]

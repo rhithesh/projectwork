@@ -1,0 +1,324 @@
+[
+  {
+    "id": 1,
+    "name": "Monkey",
+    "tier": 1,
+    "range": 1,
+    "category": "animal",
+    "image_url": "https://sakshamnftdata.s3.amazonaws.com/dreamimages/Designer+(19).jpeg"
+  },
+  {
+    "id": 2,
+    "name": "Deer",
+    "tier": 1,
+    "range": 2,
+    "category": "animal",
+    "image_url": "https://sakshamnftdata.s3.amazonaws.com/dreamimages/Designer+(17).jpeg"
+  },
+  {
+    "id": 3,
+    "name": "Panda",
+    "tier": 1,
+    "range": 3,
+    "category": "animal",
+    "image_url": "https://sakshamnftdata.s3.amazonaws.com/dreamimages/Designer+(21).jpeg"
+  },
+  {
+    "id": 4,
+    "name": "Giraffe",
+    "tier": 1,
+    "range": 4,
+    "category": "animal",
+    "image_url": "https://sakshamnftdata.s3.amazonaws.com/dreamimages/Designer+(22).jpeg"
+  },
+  {
+    "id": 5,
+    "name": "Hippo",
+    "tier": 1,
+    "range": 5,
+    "category": "animal",
+    "image_url": "https://sakshamnftdata.s3.amazonaws.com/dreamimages/Designer+(23).jpeg"
+  },
+  {
+    "id": 6,
+    "name": "Lion",
+    "tier": 1,
+    "range": 10,
+    "category": "animal",
+    "image_url": "https://sakshamnftdata.s3.amazonaws.com/dreamimages/Designer+(26).jpeg"
+  },
+  {
+    "id": 7,
+    "name": "Fox",
+    "tier": 1,
+    "range": 6,
+    "category": "animal",
+    "image_url": "https://sakshamnftdata.s3.amazonaws.com/dreamimages/Designer+(27).jpeg"
+  },
+  {
+    "id": 8,
+    "name": "Wolf",
+    "tier": 1,
+    "range": 7,
+    "category": "animal",
+    "image_url": "https://sakshamnftdata.s3.amazonaws.com/dreamimages/Designer+(28).jpeg"
+  },
+  {
+    "id": 9,
+    "name": "Snow leopard",
+    "tier": 1,
+    "range": 8,
+    "category": "animal",
+    "image_url": "https://sakshamnftdata.s3.amazonaws.com/dreamimages/Designer+(30).jpeg"
+  },
+
+  {
+    "id": 10,
+    "name": "Tiger",
+    "tier": 1,
+    "range": 9,
+    "category": "animal",
+    "image_url": "https://sakshamnftdata.s3.amazonaws.com/dreamimages/Designer+(34).jpeg"
+  },
+  {
+    "id": 11,
+    "name": "Stompy Rex",
+    "tier": 2,
+    "range": 9,
+    "category": "dinosaur",
+    "image_url": "https://sakshamnftdata.s3.amazonaws.com/dreamimages/Designer+(38).jpeg"
+  },
+  {
+    "id": 12,
+    "name": "Roary the Raptor",
+    "tier": 2,
+    "range": 8,
+    "category": "dinosaur",
+    "image_url": "https://sakshamnftdata.s3.amazonaws.com/dreamimages/Designer+(39).jpeg"
+  },
+  {
+    "id": 13,
+    "name": "Spike the Stego",
+    "tier": 2,
+    "range": 1,
+    "category": "dinosaur",
+    "image_url": "https://sakshamnftdata.s3.amazonaws.com/dreamimages/Designer+(40).jpeg"
+  },
+  {
+    "id": 14,
+    "name": "Chomper the Dino",
+    "tier": 1,
+    "range": 2,
+    "category": "dinosaur",
+    "image_url": "https://sakshamnftdata.s3.amazonaws.com/dreamimages/Designer+(42).jpeg"
+  },
+  {
+    "id": 15,
+    "name": "Thunderclaw",
+    "tier": 2,
+    "range": 4,
+    "category": "dinosaur",
+    "image_url": "https://sakshamnftdata.s3.amazonaws.com/dreamimages/Designer+(43).jpeg"
+  },
+  {
+    "id": 16,
+    "name": "Blitzsaur",
+    "tier": 2,
+    "range": 3,
+    "category": "dinosaur",
+    "image_url": "https://sakshamnftdata.s3.amazonaws.com/dreamimages/Designer+(44).jpeg"
+  },
+  {
+    "id": 17,
+    "name": "Frostbite Rex",
+    "tier": 2,
+    "range": 5,
+    "category": "dinosaur",
+    "image_url": "https://sakshamnftdata.s3.amazonaws.com/dreamimages/Designer+(45).jpeg"
+  },
+  {
+    "id": 18,
+    "name": "Shadowclaw",
+    "tier": 2,
+    "range": 6,
+    "category": "dinosaur",
+    "image_url": "https://sakshamnftdata.s3.amazonaws.com/dreamimages/Designer+(46).jpeg"
+  },
+  {
+    "id": 19,
+    "name": "Rumblehorn",
+    "tier": 2,
+    "range": 7,
+    "category": "dinosaur",
+    "image_url": "https://sakshamnftdata.s3.amazonaws.com/dreamimages/Designer+(47).jpeg"
+  },
+  {
+    "id": 20,
+    "name": "Spikestrike",
+    "tier": 2,
+    "range": 10,
+    "category": "dinosaur",
+    "image_url": "https://sakshamnftdata.s3.amazonaws.com/dreamimages/Designer+(48).jpeg"
+  },
+
+  {
+    "id": 21,
+    "name": "Blaster Xeno",
+    "tier": 3,
+    "range": 1,
+    "category": "alien",
+    "image_url": "https://sakshamnftdata.s3.amazonaws.com/dreamimages/Designer+(50).jpeg"
+  },
+  {
+    "id": 22,
+    "name": "Sneaker Nova",
+    "tier": 3,
+    "range": 10,
+    "category": "alien",
+    "image_url": "https://sakshamnftdata.s3.amazonaws.com/dreamimages/Designer+(51).jpeg"
+  },
+  {
+    "id": 23,
+    "name": "Gucci Glint",
+    "tier": 3,
+    "range": 7,
+    "category": "alien",
+    "image_url": "https://sakshamnftdata.s3.amazonaws.com/dreamimages/Designer+(52).jpeg"
+  },
+  {
+    "id": 24,
+    "name": "Cap’n Cosmos",
+    "tier": 3,
+    "range": 2,
+    "category": "alien",
+    "image_url": "https://sakshamnftdata.s3.amazonaws.com/dreamimages/Designer+(53).jpeg"
+  },
+  {
+    "id": 25,
+    "name": "Chillin’Couture",
+    "tier": 3,
+    "range": 3,
+    "category": "animal",
+    "image_url": "https://sakshamnftdata.s3.amazonaws.com/dreamimages/Designer+(54).jpeg"
+  },
+  {
+    "id": 26,
+    "name": "Witchy Wobble",
+    "tier": 2,
+    "range": 4,
+    "category": "dinosaur",
+    "image_url": "https://sakshamnftdata.s3.amazonaws.com/dreamimages/Designer+(55).jpeg"
+  },
+  {
+    "id": 27,
+    "name": "Gogglehead",
+    "tier": 4,
+    "range": 5,
+    "category": "alien",
+    "image_url": "https://sakshamnftdata.s3.amazonaws.com/dreamimages/Designer+(56).jpeg"
+  },
+  {
+    "id": 28,
+    "name": "Level Up Luma",
+    "tier": 1,
+    "range": 9,
+    "category": "superhero",
+    "image_url": "https://sakshamnftdata.s3.amazonaws.com/dreamimages/Designer+(57).jpeg"
+  },
+  {
+    "id": 29,
+    "name": "Nebula Notes",
+    "tier": 3,
+    "range": 8,
+    "category": "alien",
+    "image_url": "https://sakshamnftdata.s3.amazonaws.com/dreamimages/Designer+(60).jpeg"
+  },
+  {
+    "id": 30,
+    "name": "Surfing Surge",
+    "tier": 3,
+    "range": 6,
+    "category": "alien",
+    "image_url": "https://sakshamnftdata.s3.amazonaws.com/dreamimages/Designer+(61).jpeg"
+  },
+  {
+    "id": 31,
+    "name": "Superman",
+    "tier": 4,
+    "range": 7,
+    "category": "superhero",
+    "image_url": "https://sakshamnftdata.s3.amazonaws.com/dreamimages/Designer+(68).jpeg"
+  },
+  {
+    "id": 32,
+    "name": "Batman",
+    "tier": 4,
+    "range": 8,
+    "category": "superhero",
+    "image_url": "https://sakshamnftdata.s3.amazonaws.com/dreamimages/Designer+(71).jpeg"
+  },
+  {
+    "id": 33,
+    "name": "Worderwomen",
+    "tier": 4,
+    "range": 4,
+    "category": "superhero",
+    "image_url": "https://sakshamnftdata.s3.amazonaws.com/dreamimages/Designer+(72).jpeg"
+  },
+  {
+    "id": 34,
+    "name": "Ironman",
+    "tier": 4,
+    "range": 10,
+    "category": "superhero",
+    "image_url": "https://sakshamnftdata.s3.amazonaws.com/dreamimages/Designer+(74).jpeg"
+  },
+  {
+    "id": 35,
+    "name": "Thor",
+    "tier": 4,
+    "range": 5,
+    "category": "superhero",
+    "image_url": "https://sakshamnftdata.s3.amazonaws.com/dreamimages/Designer+(77).jpeg"
+  },
+  {
+    "id": 36,
+    "name": "Captain America",
+    "tier": 4,
+    "range": 6,
+    "category": "superhero",
+    "image_url": "https://sakshamnftdata.s3.amazonaws.com/dreamimages/Designer+(79).jpeg"
+  },
+  {
+    "id": 37,
+    "name": "Spiderman",
+    "tier": 4,
+    "range": 9,
+    "category": "superhero",
+    "image_url": "https://sakshamnftdata.s3.amazonaws.com/dreamimages/Designer+(81).jpeg"
+  },
+  {
+    "id": 38,
+    "name": "Deadpool",
+    "tier": 1,
+    "range": 3,
+    "category": "superhero",
+    "image_url": "https://sakshamnftdata.s3.amazonaws.com/dreamimages/Designer+(83).jpeg"
+  },
+  {
+    "id": 39,
+    "name": "Doctor Strange",
+    "tier": 3,
+    "range": 1,
+    "category": "superhero",
+    "image_url": "https://sakshamnftdata.s3.amazonaws.com/dreamimages/Designer+(88).jpeg"
+  },
+  {
+    "id": 40,
+    "name": "Hulk",
+    "tier": 2,
+    "range": 2,
+    "category": "superhero",
+    "image_url": "https://sakshamnftdata.s3.amazonaws.com/dreamimages/Designer+(90).jpeg"
+  }
+]
