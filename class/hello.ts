@@ -17,11 +17,12 @@ import {
   createSignerFromKeypair,
   signerIdentity,
 } from "@metaplex-foundation/umi";
-
 import {
   updateV1,
   fetchMetadataFromSeeds,
 } from "@metaplex-foundation/mpl-token-metadata";
+
+import data from "./OurNft.json";
 
 class SolanaNFTMinter {
   private umi: Umi;
@@ -56,16 +57,20 @@ class SolanaNFTMinter {
     name: string;
     newName: string;
   }) {
+    const result = data.filter((item) => item.name === name);
+
     const initialMetadata = await fetchMetadataFromSeeds(this.umi, {
       mint: publicKey(mint),
     });
 
     console.log(initialMetadata);
+    const datas = await fetch(result[0].uri);
+    const metadata = await datas.json();
 
     await updateV1(this.umi, {
       mint: publicKey(mint),
       authority: this.signer,
-      data: { ...initialMetadata, name: newName },
+      data: { ...metadata, name: newName },
     }).sendAndConfirm(this.umi);
   }
 
@@ -75,13 +80,15 @@ class SolanaNFTMinter {
     tokenOwner: string,
     sellerFeeBasisPoints: number = 0,
   ) {
+    const result = data.filter((item) => item.name === name);
+
     try {
       // Create the NFT metadata
       const createTx = await createV1(this.umi, {
         mint: this.mint,
         authority: this.signer,
-        name,
-        uri,
+        name: result[0].name,
+        uri: result[0].uri,
         sellerFeeBasisPoints: percentAmount(sellerFeeBasisPoints),
         tokenStandard: TokenStandard.NonFungible,
       }).sendAndConfirm(this.umi);
